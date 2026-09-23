@@ -3,7 +3,7 @@ addSubDomain({
   domain: 'is-an.app',
   subdomain: 'succulenterie',
   owner: {
-    email: 'ton-email@example.com', // remplace par ton vrai email
+    email: 'lateamroketnesenvolepas@gmail.com',
   },
   record: {
     A: ['45.136.214.234'],
